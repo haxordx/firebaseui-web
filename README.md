@@ -28,23 +28,6 @@ environments(React Native...) or Chrome extensions will be added once the
 underlying Firebase core SDK supports them in a way that is compatible with
 FirebaseUI.
 
-## Table of Contents
-
-1. [Demo](#demo)
-2. [Installation](#installation)
-3. [Usage instructions](#using-firebaseui-for-authentication)
-4. [Configuration](#configuration)
-5. [Customization](#customizing-firebaseui-for-authentication)
-6. [Advanced](#advanced)
-7. [Developer Setup](#developer-setup)
-8. [IAP External Identities Support with FirebaseUI](#iap-external-identities-support-with-firebaseui)
-9. [Cordova Setup](#cordova-setup)
-10. [React DOM Setup](#react-dom-setup)
-11. [Angular Setup](#angular-setup)
-12. [Known issues](#known-issues)
-13. [Deprecated APIs](#deprecated-apis)
-14. [Release Notes](#release-notes)
-
 ## Help improve our documentation
 
 Record a coding screencast while you get started with FirebaseUI.
