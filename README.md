@@ -54,6 +54,12 @@ Accessible here:
   <img src="demo/screenshot.png" width="300" title="Screenshot">
 </p>
 
+## Help improve our documentation
+
+Record a coding screencast while you get started with FirebaseUI.
+
+<a href="https://app.paircast.io/intro?key=186d9a19-675c-449f-9ddd-b9c8e46dabe8"><img src="https://app.paircast.io/images/share-your-build.png" alt="Share with Paircast"></a>
+
 ## Installation
 
 ### Option 1: CDN
