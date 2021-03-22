@@ -45,15 +45,6 @@ FirebaseUI.
 13. [Deprecated APIs](#deprecated-apis)
 14. [Release Notes](#release-notes)
 
-## Demo
-
-Accessible here:
-[https://fir-ui-demo-84a6c.firebaseapp.com](https://fir-ui-demo-84a6c.firebaseapp.com).
-
-<p align="center">
-  <img src="demo/screenshot.png" width="300" title="Screenshot">
-</p>
-
 ## Help improve our documentation
 
 Record a coding screencast while you get started with FirebaseUI.
